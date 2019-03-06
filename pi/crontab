@@ -1,0 +1,2 @@
+*/10 *  *   *   *     /home/pi/webcam.sh
+@reboot /home/pi/server/start_server.sh
